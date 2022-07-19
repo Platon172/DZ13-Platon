@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 40px;
+}
+.header {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.menu-item {
+    text-decoration: none;
+    font-family: 'Anek Malayalam', sans-serif;
+    color: black;
+    margin-right: 40px;
+}
+.menu-item:last-child {
+    margin: 0;
+}
+.button1 {
+    font-family: 'Anek Malayalam', sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+
+
+
+.button2 {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 12px 16px;
+    font-family: 'Anek Malayalam', sans-serif;
+}
